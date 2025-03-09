@@ -16,5 +16,8 @@ This repository serves as an educational resource for those looking to explore t
 The custom-built transformer model with a learning rate of 1e-3, batch size of 64, 20 heads, and 200-dimensional embedding achieves the highest validation accuracy of 69.47%, indicating an effective balance between complexity and performance.
 
 ### Contributers
-- Malk Khalid
+- Malk Khalid https://https/www.linkedin.com/in/malk-khatab
 - Mayar Ehab 
+
+
+=> Acknowledgment: The dataset used in this project was provided by the Neural Network Course teaching team - Faculty of Computer and Information Sciences at Ain Shams University.
