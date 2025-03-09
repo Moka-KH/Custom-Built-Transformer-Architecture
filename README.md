@@ -17,7 +17,7 @@ The custom-built transformer model with a learning rate of 1e-3, batch size of 6
 
 ### Contributers
 - Malk Khalid https://https/www.linkedin.com/in/malk-khatab
-- Mayar Ehab 
+- Mayar Ehab https://www.linkedin.com/in/mayar-ehab1284
 
 
 => Acknowledgment: The dataset used in this project was provided by the Neural Network Course teaching team - Faculty of Computer and Information Sciences at Ain Shams University.
